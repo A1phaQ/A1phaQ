@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZxAlphAq
 - 🤖 I’m interested in bot
 - ✍🏻 I’m currently learning Python
-- 🥂 you can find me in discord # <@!906560626128723988>
+- 🥂 you can find me in discord <@!906560626128723988>
 
 
 <!---
