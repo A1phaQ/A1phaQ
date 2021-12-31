@@ -2,7 +2,7 @@
 - 🤖 I’m interested in bot
 - ✍🏻 I’m currently learning Python
 - 🥂 you can find me in discord 
-- id: <@!906560626128723988>
+- Id: <@!906560626128723988>
 
 
 <!---
