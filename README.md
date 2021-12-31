@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mmDAlphA
-- 🤖 I’m interested in bot
+- 🤖 I’m interested in bots
 - ✍🏻 I’m currently learning Python
 - 🥂 you can find me in discord 
 - Id: <@!906560626128723988>
