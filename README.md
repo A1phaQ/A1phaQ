@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZxAlphAq
+- 👋 Hi, I’m @ZxAlphAQ
 - 🤖 I’m interested in bot
 - ✍🏻 I’m currently learning Python
 - 🥂 you can find me in discord 
